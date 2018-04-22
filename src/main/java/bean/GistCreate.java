@@ -1,6 +1,7 @@
-package java.bean;
+package bean;
 
-import java.database.Database;
+import database.Database;
+
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;

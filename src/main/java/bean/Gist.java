@@ -1,4 +1,4 @@
-package java.bean;
+package bean;
 
 public class Gist {
     private String id;

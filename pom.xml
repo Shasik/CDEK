@@ -20,5 +20,13 @@
             </plugin>
         </plugins>
     </build>
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.glassfish</groupId>
+            <artifactId>javax.servlet</artifactId>
+            <version>10.0-b28</version>
+        </dependency>
+    </dependencies>
 
 </project>

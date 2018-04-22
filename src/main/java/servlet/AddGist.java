@@ -1,4 +1,5 @@
-package java.servlet;
+package servlet;
+
 
 import database.Database;
 
